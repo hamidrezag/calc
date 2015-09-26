@@ -1,0 +1,7 @@
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\bin\Debug\Spring.Calculator.Services.dll
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\bin\Debug\Spring.Calculator.Services.pdb
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\bin\Debug\Spring.Calculator.Contract.dll
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\bin\Debug\Spring.Calculator.Contract.pdb
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\obj\Debug\Spring.Calculator.Services.2010.csprojResolveAssemblyReference.cache
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\obj\Debug\Spring.Calculator.Services.dll
+C:\Users\hamid\Downloads\spring-net-master\spring-net-master\examples\Spring\Spring.Calculator\src\Spring.Calculator.Services\obj\Debug\Spring.Calculator.Services.pdb

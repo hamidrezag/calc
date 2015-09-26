@@ -1,0 +1,32 @@
+2015-09-22 04:56:24,753 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-22 04:56:24,920 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-22 04:56:24,983 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-22 04:56:25,088 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-22 04:57:07,950 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-22 04:57:08,246 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-22 04:57:08,308 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-22 04:57:08,354 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-22 04:57:55,192 [DEBUG] Spring.Aspects.Logging.CommonLoggingAroundAdvice - Intercepted call : about to invoke method 'SetMemory'
+2015-09-22 04:57:55,193 [DEBUG] Spring.Aspects.Logging.CommonLoggingAroundAdvice - Intercepted call : returned ''
+2015-09-22 04:58:21,446 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-22 04:58:21,805 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-22 04:58:21,868 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-22 04:58:21,915 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-22 04:58:32,527 [DEBUG] Spring.Aspects.Logging.CommonLoggingAroundAdvice - Intercepted call : about to invoke method 'Substract'
+2015-09-22 04:58:32,528 [DEBUG] Spring.Aspects.Logging.CommonLoggingAroundAdvice - Intercepted call : returned '-1'
+2015-09-22 22:28:47,141 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-22 22:28:47,690 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-22 22:28:47,751 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-22 22:28:47,864 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-23 05:02:47,758 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-23 05:02:48,261 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-23 05:02:48,333 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-23 05:02:48,387 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-23 05:29:27,995 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-23 05:29:28,165 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-23 05:29:28,226 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-23 05:29:28,278 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
+2015-09-25 23:51:39,161 [INFO ] Spring.Context.Support.WebApplicationContext - Forcing first request /dummy.context
+2015-09-25 23:51:39,834 [INFO ] Spring.Aop.Framework.ProxyFactoryObject - Implemented interfaces have changed; reseting singleton instance
+2015-09-25 23:51:39,946 [INFO ] Spring.Context.Support.XmlApplicationContext - ApplicationContext Refresh: Completed
+2015-09-25 23:51:40,367 [INFO ] Spring.Context.Support.WebApplicationContext - Successfully processed first request!
